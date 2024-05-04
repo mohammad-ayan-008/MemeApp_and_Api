@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/MemeVortex/app/src/main/res/layout/layout_login_user.xml",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 328,
+          "line": 7
+        },
+        "start": {
+          "column": 4,
+          "index": 328,
+          "line": 7
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/MemeVortex/app/src/main/res/layout/layout_login_user.xml"
+}

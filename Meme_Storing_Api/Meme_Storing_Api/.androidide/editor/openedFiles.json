@@ -1,0 +1,95 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Meme_Storing_Api/src/main/java/Org/Memes/Api/Meme_Storing_Api/MemeStoringApiApplication.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Meme_Storing_Api/src/main/resources/application.properties",
+      "selection": {
+        "end": {
+          "column": 16,
+          "index": 317,
+          "line": 7
+        },
+        "start": {
+          "column": 16,
+          "index": 317,
+          "line": 7
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Meme_Storing_Api/build.gradle",
+      "selection": {
+        "end": {
+          "column": 74,
+          "index": 612,
+          "line": 28
+        },
+        "start": {
+          "column": 74,
+          "index": 612,
+          "line": 28
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Meme_Storing_Api/src/test/java/Org/Memes/Api/Meme_Storing_Api/MemeStoringApiApplicationTests.java",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 118,
+          "line": 4
+        },
+        "start": {
+          "column": 15,
+          "index": 118,
+          "line": 4
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Meme_Storing_Api/gradlew.bat",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Meme_Storing_Api/settings.gradle",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Meme_Storing_Api/src/test/java/Org/Memes/Api/Meme_Storing_Api/MemeStoringApiApplicationTests.java"
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:background="#FF5A5F"
+     android:id="@+id/coordinator">
+
+    <androidx.cardview.widget.CardView
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_centerInParent="true"
+         android:layout_margin="10dp"
+         app:cardCornerRadius="15dp">
+
+        <LinearLayout
+             android:layout_height="wrap_content"
+             android:layout_width="match_parent"
+             android:gravity="center"
+             android:orientation="vertical">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                 android:layout_marginTop="10dp"
+                 xmlns:app="http://schemas.android.com/apk/res-auto"
+                 android:layout_height="96dp"
+                 android:layout_width="96dp"
+                 android:src="@drawable/meme"
+                 app:civ_border_width="2dp"
+                 
+                 android:id="@+id/profile_image" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:hint="UserName"
+                 android:layout_margin="10dp"
+                 android:id="@+id/textInputLayout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                     android:layout_height="wrap_content"
+                     android:layout_width="match_parent"
+                     android:inputType="text"
+                     android:id="@+id/username" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:hint="password"
+                 android:layout_margin="10dp"
+                 android:layout_marginTop="20dp"
+                 android:id="@+id/password">
+
+                <com.google.android.material.textfield.TextInputEditText
+                     android:layout_height="wrap_content"
+                     android:layout_width="match_parent"
+                     android:inputType="textPassword"
+                     android:id="@+id/passwrd" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.button.MaterialButton
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:layout_margin="10dp"
+                 android:id="@+id/submit"
+                 android:layout_marginTop="20dp"
+                 android:text="Login" />
+
+            <com.google.android.material.button.MaterialButton
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:layout_margin="10dp"
+                 android:id="@+id/Register"
+                 android:layout_marginTop="20dp"
+                 android:text="Register" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

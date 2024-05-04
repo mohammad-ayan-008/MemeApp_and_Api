@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/MemeVortex/app/src/main/java/org/memes/memevortex/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 1122,
+          "line": 30
+        },
+        "start": {
+          "column": 11,
+          "index": 1122,
+          "line": 30
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/MemeVortex/app/src/main/java/org/memes/memevortex/hiltModles/FragmentModule.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/MemeVortex/app/src/main/java/org/memes/memevortex/hiltModles/hiltModle.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/MemeVortex/app/src/main/java/org/memes/memevortex/hiltModles/hiltModle.java"
+}
