@@ -1,7 +1,7 @@
 # Project Overview
 
 ## Description
-Welcome to our exciting project, where we've combined the power of Android development with the robustness of Spring Boot to create an innovative meme browsing and storing experience. This project showcases a seamless integration of technologies, including advanced concepts like RxJava for reactive programming and dependency injection with Dagger Hilt. On the backend, we've implemented Spring Security for user-based authentication and adopted the MVVM architecture pattern for both the Android app and the Spring Boot API.
+Welcome to our exciting project, where we've combined the power of Android development with the robustness of Spring Boot to create an innovative meme browsing and storing experience. This project showcases a seamless integration of technologies, including advanced concepts like RxJava for reactive programming and dependency injection with Dagger Hilt. On the backend, we've implemented Spring Security for user-based authentication and adopted the MVVM architecture pattern for the Android app.
 
 ## Features
 Our project boasts an array of features designed to deliver an engaging user experience:
